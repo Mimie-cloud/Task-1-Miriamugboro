@@ -1,2 +1,3 @@
-# Task-1-Miriamugboro
+# DecodeLabs_tasks
 Repository for task 1
+#Data cleaning 
